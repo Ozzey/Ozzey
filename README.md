@@ -26,7 +26,7 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>OK. Here you go</i></b>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ozzey&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ozzey&label=Profile%20views&color=0e75b6&style=flat" alt="ozzey" /> </p>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
@@ -39,7 +39,7 @@
 ✔ Fun fact : *I'm a completely self-taught coder*<br><br><br><br>
  
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tech stacks that I know***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tech Stacks***
 <p align="left">
   
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
@@ -59,10 +59,6 @@
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ozzey&show_icons=true&locale=en&layout=compact" alt="ozzey" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozzey&langs_count=5&theme=tokyonight" alt="ozzey" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ozzey&show_icons=true&locale=en" alt="ozzey" width="410" /></p>
-
-<hr>
------
-Adios!
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/?username=ozzey&count_private=true&theme=tokyonight&showicons=true" alt="ozzey" /></p>
