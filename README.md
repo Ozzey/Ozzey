@@ -1,49 +1,69 @@
 <p align="center">
-  <img src="https://github.com/Ozzey/Ozzey/blob/main/assets/cover.png" height="200"/>
+  <img src="https://github.com/Ozzey/Ozzey/blob/main/assets/cover.png" height="220"/>
 </p>
-<hr>
-<h1 align="center">I'm Aditya Narendra</h1>
-<h3 align="center">Python Developer | Competitive Programmer | ML Enthusiast | Student </h3>
+
 <p align="center">
-<a href="https://www.linkedin.com/in/aditya-narendra-04b59a1b1/" target="blank"><img align="center" src="https://github.com/Ozzey/Ozzey/blob/main/assets/linkedin.svg" alt="Ozzey" height="30" width="40" /></a>
-<a href="https://www.facebook.com/aditya.narendra.5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
-<a href="https://www.instagram.com/oz.zey/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@oz.zey" height="30" width="40" /></a>
-<a href="https://pypi.org/user/ozzey/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pypi.svg" alt="akash_chowrasia" height="30" width="40" /></a>
-<a href = "mailto: adityanarendra6@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-</p>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" height="28"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" height="28"/>
 </p>
 
+<hr>
 
+<h1 align="center">I'm Aditya Narendra</h1>
+<h3 align="center">
+Robotics & Reinforcement Learning | Research Engineer
+</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/aditya-narendra-04b59a1b1/" target="blank">
+  <img align="center" src="https://github.com/Ozzey/Ozzey/blob/main/assets/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://www.facebook.com/aditya.narendra.5/" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/oz.zey/" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+<a href="https://pypi.org/user/ozzey/" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pypi.svg" alt="PyPI" height="30" width="40" />
+</a>
+<a href="mailto:adityanarendra6@gmail.com">
+  <img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" height="30" width="40" />
+</a>
+</p>
 
 <p align="center">
   <em>
-    I'm Aditya Narendra, a <b>Sophomore at</b> Moscow Institute of Physics & Technology <b>Moscow</b>, Russia</a>. <br>
+    Research Engineer focused on <b>Robotics</b>, <b>Reinforcement Learning</b>, and <b>symbolic planning/control</b> for <b>high-DoF manipulators</b>.
+  </em>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ozzey&label=Profile%20views&color=0e75b6&style=flat" alt="ozzey" /> </p>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ozzey&label=Profile%20views&color=0e75b6&style=flat" alt="ozzey" />
+</p>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***OVERVIEW***
+<img align="right" alt="robot-gif" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="320"/>
 
-✔ [Portfolio](https://ozzey.github.io/) <br>
-✔ I’m currently a full time student <br>
-✔ I'm currently working as an Undergraduate Teaching Assistant for Python Programming Language at MIPT<br>
-✔ I’m currently working on/learning about **NLP** & **Neural Networks**<br>
-✔ I’m looking to collaborate with any **Open - Source contribution**<br>
- 
+<br>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages***
-<p align="left">
-  
- <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"> </code> 
-  <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozzey&langs_count=5&theme=tokyonight" alt="ozzey" /></p>
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+<b>&nbsp;ROBOTICS OVERVIEW</b>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/?username=ozzey&count_private=true&theme=tokyonight&showicons=true" alt="ozzey" /></p>
+<p>
+🤖 I build <b>robot learning + control</b> systems across <b>simulation</b> (Isaac Sim / Genesis / MuJoCo) and <b>real robots</b> (Franka, UR5, UGV).<br>
+🧠 Current focus: <b>symbolic planning & certified control</b>, <b>multi-task RL</b>, <b>model-based control</b>, and <b>sim-to-real</b>.<br>
+</p>
+
+✔ <b>Portfolio</b>: <a href="https://ozzey.github.io/">https://ozzey.github.io/</a><br>
+✔ <b>Currently</b>: Research Engineer @ <b>MBZUAI</b> (Abu Dhabi) + Research Engineer @ <b>MIPT</b> (Moscow)<br>
+✔ <b>Background</b>: BSc Applied Math & CS @ <b>MIPT</b><br>
+✔ <b>Open to</b>: research collaborations, robotics/RL tooling, sim environments, and benchmarking projects<br>
+
+<br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="26"/>
+  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="26"/>
+</p>
+
+<hr>
